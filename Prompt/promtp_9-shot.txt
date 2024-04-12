@@ -1,0 +1,32 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+It's really helpful->irrelevant information
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+slow loading of conversations and emoticons->bug report
+everything is nice and all for me but uhhhhhhhh I have my auto rotate off and yet somehow discord can rotate on itself->bug report
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+Not that good as expectation->irrelevant information
+Love the new official AMOLED dark theme!->irrelevant information
+It has been good.->irrelevant information
+Galaxy s5. ...not all messages coming though...pictures aswell...please fix bugs->bug report
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+This is a great way to communicate with others. I would recommend this to anyone.->irrelevant information
+"Not a fan of this new phone app layout. Why is my friends list under "" you "" tab"->feature request
+My screen keeps turning black->bug report
+Does what it's supposed to do->irrelevant information
+show any error message but ask each time for password->bug report
+New UI isn't great. Less intuitive and clunky than the old layout->feature request
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report
+Audio /vedio  cut off  very often->bug report
+It's good but please upgrade it so that it can be used without network->feature request
+I'm loving it->irrelevant information
+Change of review, Discord did managed to respond. So I make a update to my negative review. Hopefully in the future there's improvement for others using Discord ticket service and maybe something better for customer review. Discord is heavy in its system than what it used to be. The Discord call still lags compare to its competitors.->feature request
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+The call history only show the name of contact, without the actual number which is very important. Contact can not edit multiple number with one person. Software poorly designed.->feature request
+This a good app but there needs to be an edit button option.->feature request
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+"great communication ap for our basketball team. i wish the calendar was more of a ""monthly view"" versus just the event day...great ap though!"->feature request

@@ -1,0 +1,29 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Great way to stay in contact with friends and family without the excess of other social media apps.->irrelevant information
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+it would be a 4 but the update is absolutely horrible. the new layout makes it look so cluttered, and the new call background is just why. it's so bad I can't even.->feature request
+It has been good.->irrelevant information
+The call history only show the name of contact, without the actual number which is very important. Contact can not edit multiple number with one person. Software poorly designed.->feature request
+Cool app but if i log out once and i know the password and try to login many times it always say pass incorrect or some other issues so i make other account and if log out for some personal reasons nd agn try to login it again do that thing i hate this pls it is just me or anyone else discord please make my account come back TvT..->bug report
+Not that good as expectation->irrelevant information
+Recent updates is bugging my app. It keeps on lagging (the screen showing one channel despite switching to other channels in the server).->bug report
+I continously get kicked off the app. And most of the time, when I do manage to log back in, it doesn't show my work groups or any other chat. Or any contacts. And when they're there, they end up disappearing.->bug report
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+slow loading of conversations and emoticons->bug report
+Love the new official AMOLED dark theme!->irrelevant information
+I wish there was a way to send a reminder directly from a calendar event to anyone who hasn't responded. Otherwise, it's great!->feature request
+It's slow to load->bug report
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+It's a great way to communicate coworkers. And very easy to use->irrelevant information
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+"great communication ap for our basketball team. i wish the calendar was more of a ""monthly view"" versus just the event day...great ap though!"->feature request
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+After update it has become very glitchy fix that first->bug report
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+This is a great app! However, I wish the notifications I received from direct messages were like the ones I get from large groups. I never get any notifications for direct messages and the message isn't in bold either, so it often goes unnoticed by me and I don't realize I received a message until weeks later.->feature request
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+"Not a fan of this new phone app layout. Why is my friends list under "" you "" tab"->feature request

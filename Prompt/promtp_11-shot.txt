@@ -1,0 +1,38 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+So far, all is good. We use this handy app with our church community.->irrelevant information
+Recent updates is bugging my app. It keeps on lagging (the screen showing one channel despite switching to other channels in the server).->bug report
+This a good app but there needs to be an edit button option.->feature request
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+My screen keeps turning black->bug report
+Discord is already part of my day-to-day routine. But when it was updated, and I'm on call and trying to open other apps to play while on a VC, I'm automatically disconnected from the call and can't join the VCs unless I'm on the app itself. That's why I can't join calls when trying to play with my friends or I can play but can't join the VC.->bug report
+I enjoy the chats..->irrelevant information
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+Does what it's supposed to do->irrelevant information
+bring the old UI back I'm in shambles rn->feature request
+"new ui sucks, cant revert to old one ""we changed it for mobile instead of a scaled down desktop version"" thats literally why we liked the mobile app because it didnt try to feel like a f**ckin mobile app. you cant see full pinned messages or their attachments and the new server menu requires endless scrolling for what used to be a seamless experience with desktop. discord recently has been fixing things that werent broken in the first place and completely ignoring community feedback. why."->feature request
+This is a great app! However, I wish the notifications I received from direct messages were like the ones I get from large groups. I never get any notifications for direct messages and the message isn't in bold either, so it often goes unnoticed by me and I don't realize I received a message until weeks later.->feature request
+It has been good.->irrelevant information
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+slow loading of conversations and emoticons->bug report
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+Discord: let's change UI every few months to annoy users for no reason->feature request
+New UI Sucks ALOT i want the old one back this one is too confusing can we have the option back to go to legacy UI? this alone would bring me up to 5->feature request
+Horrible connection, unclear calls, dropped calls. No matter if I'm using wifi or even my mobile data.->bug report
+Audio /vedio  cut off  very often->bug report
+I continously get kicked off the app. And most of the time, when I do manage to log back in, it doesn't show my work groups or any other chat. Or any contacts. And when they're there, they end up disappearing.->bug report
+Good to keep in contact->irrelevant information
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+Worst review we cant hear each ither can't share the screen and the skype is not working well and I didn't got ant response from team skype how you are all working->bug report
+show any error message but ask each time for password->bug report
+2 days ago this would have been a 4 star review but the new update is such a downgrade that I had to say something. Why they always insist on making every feature worse is beyond me->irrelevant information
+It's good but please upgrade it so that it can be used without network->feature request
+"great communication ap for our basketball team. i wish the calendar was more of a ""monthly view"" versus just the event day...great ap though!"->feature request
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+Great way to stay in contact with friends and family without the excess of other social media apps.->irrelevant information
+I wish there was a way to send a reminder directly from a calendar event to anyone who hasn't responded. Otherwise, it's great!->feature request
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request

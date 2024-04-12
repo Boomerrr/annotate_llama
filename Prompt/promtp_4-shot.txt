@@ -1,0 +1,17 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+This is a great app! However, I wish the notifications I received from direct messages were like the ones I get from large groups. I never get any notifications for direct messages and the message isn't in bold either, so it often goes unnoticed by me and I don't realize I received a message until weeks later.->feature request
+Good to keep in contact->irrelevant information
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+"App recently updated and gives Skype a run for its money in the ""worst app overhaul for 0 reason"" category."->irrelevant information
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+"great communication ap for our basketball team. i wish the calendar was more of a ""monthly view"" versus just the event day...great ap though!"->feature request
+sometimes it works and other times it doesn't; will drop calls periodically->bug report
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+I've used Discord for 7 years and I've gotten so used to this mobile layout. My app finally automatically updated today, against my own wishes due to what I've heard about the new UI, and I've gotta say I'm confused and disappointed. What happened to swiping left to check the member list? I've gotta tap on the channel name now to check that? Never mind the fact that I can't find any semblance of a friends list anymore, and all of my direct messages are in that new bottom toolbar, unlike on PC.->feature request
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report

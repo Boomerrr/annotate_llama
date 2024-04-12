@@ -1,0 +1,47 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+The call history only show the name of contact, without the actual number which is very important. Contact can not edit multiple number with one person. Software poorly designed.->feature request
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report
+I enjoy the chats..->irrelevant information
+It has been good.->irrelevant information
+Worst review we cant hear each ither can't share the screen and the skype is not working well and I didn't got ant response from team skype how you are all working->bug report
+It's slow to load->bug report
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+slow loading of conversations and emoticons->bug report
+This is a great way to communicate with others. I would recommend this to anyone.->irrelevant information
+This is a great app! However, I wish the notifications I received from direct messages were like the ones I get from large groups. I never get any notifications for direct messages and the message isn't in bold either, so it often goes unnoticed by me and I don't realize I received a message until weeks later.->feature request
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+Inconvenient interface. Can't delete history->feature request
+Not that good as expectation->irrelevant information
+Audio /vedio  cut off  very often->bug report
+After update it has become very glitchy fix that first->bug report
+This a good app but there needs to be an edit button option.->feature request
+New UI Sucks ALOT i want the old one back this one is too confusing can we have the option back to go to legacy UI? this alone would bring me up to 5->feature request
+Horrible connection, unclear calls, dropped calls. No matter if I'm using wifi or even my mobile data.->bug report
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+My screen keeps turning black->bug report
+The website is great, I got the app on my chromebook so I could send voice messages, but it doesn't let me record anything.->feature request
+2 days ago this would have been a 4 star review but the new update is such a downgrade that I had to say something. Why they always insist on making every feature worse is beyond me->irrelevant information
+Wont even make video/voice calls, it just stops ringing. Works 50% of the time.->bug report
+Discord: let's change UI every few months to annoy users for no reason->feature request
+bring the old UI back I'm in shambles rn->feature request
+How do you not have the option to delete chats, or even check who has seen your message? Garbage. Do yourself a favor and get WhatsApp. The functionality of this app is atrocious.->feature request
+sometimes it works and other times it doesn't; will drop calls periodically->bug report
+"new ui sucks, cant revert to old one ""we changed it for mobile instead of a scaled down desktop version"" thats literally why we liked the mobile app because it didnt try to feel like a f**ckin mobile app. you cant see full pinned messages or their attachments and the new server menu requires endless scrolling for what used to be a seamless experience with desktop. discord recently has been fixing things that werent broken in the first place and completely ignoring community feedback. why."->feature request
+So far, all is good. We use this handy app with our church community.->irrelevant information
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+I continously get kicked off the app. And most of the time, when I do manage to log back in, it doesn't show my work groups or any other chat. Or any contacts. And when they're there, they end up disappearing.->bug report
+Discord is already part of my day-to-day routine. But when it was updated, and I'm on call and trying to open other apps to play while on a VC, I'm automatically disconnected from the call and can't join the VCs unless I'm on the app itself. That's why I can't join calls when trying to play with my friends or I can play but can't join the VC.->bug report
+everything is nice and all for me but uhhhhhhhh I have my auto rotate off and yet somehow discord can rotate on itself->bug report
+I wish there was a way to send a reminder directly from a calendar event to anyone who hasn't responded. Otherwise, it's great!->feature request
+Easy to use and fun way to communicate with friends!->irrelevant information
+New UI isn't great. Less intuitive and clunky than the old layout->feature request
+I'm loving it->irrelevant information
+"App recently updated and gives Skype a run for its money in the ""worst app overhaul for 0 reason"" category."->irrelevant information
+Easiest way to talk with people online atm.->irrelevant information

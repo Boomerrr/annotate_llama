@@ -1,0 +1,41 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Latest update is a bit annoying. Have to scroll down to get things to mark as read, even if you're already scrolled all the way down. Keyboard keeps popping up for seemingly no reason. It otherwise works fine but it is a bit annoying. To add to this, now on the latest version it additionally doesn't show people's picture if they have the default Discord profile picture. Clearing cache and storage for the app restores functionality for a brief period of time. App has gone downhill.->bug report
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+My screen keeps turning black->bug report
+Discord: let's change UI every few months to annoy users for no reason->feature request
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+Does what it's supposed to do->irrelevant information
+Horrible connection, unclear calls, dropped calls. No matter if I'm using wifi or even my mobile data.->bug report
+So far, all is good. We use this handy app with our church community.->irrelevant information
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+Audio /vedio  cut off  very often->bug report
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+Not that good as expectation->irrelevant information
+It has been good.->irrelevant information
+This a good app but there needs to be an edit button option.->feature request
+Easy to use and fun way to communicate with friends!->irrelevant information
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report
+The website is great, I got the app on my chromebook so I could send voice messages, but it doesn't let me record anything.->feature request
+It's good but please upgrade it so that it can be used without network->feature request
+Galaxy s5. ...not all messages coming though...pictures aswell...please fix bugs->bug report
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+Change of review, Discord did managed to respond. So I make a update to my negative review. Hopefully in the future there's improvement for others using Discord ticket service and maybe something better for customer review. Discord is heavy in its system than what it used to be. The Discord call still lags compare to its competitors.->feature request
+2 days ago this would have been a 4 star review but the new update is such a downgrade that I had to say something. Why they always insist on making every feature worse is beyond me->irrelevant information
+Good to keep in contact->irrelevant information
+I've used Discord for 7 years and I've gotten so used to this mobile layout. My app finally automatically updated today, against my own wishes due to what I've heard about the new UI, and I've gotta say I'm confused and disappointed. What happened to swiping left to check the member list? I've gotta tap on the channel name now to check that? Never mind the fact that I can't find any semblance of a friends list anymore, and all of my direct messages are in that new bottom toolbar, unlike on PC.->feature request
+After update it has become very glitchy fix that first->bug report
+Recent updates is bugging my app. It keeps on lagging (the screen showing one channel despite switching to other channels in the server).->bug report
+I wish there was a way to send a reminder directly from a calendar event to anyone who hasn't responded. Otherwise, it's great!->feature request
+sometimes it works and other times it doesn't; will drop calls periodically->bug report
+Cool app but if i log out once and i know the password and try to login many times it always say pass incorrect or some other issues so i make other account and if log out for some personal reasons nd agn try to login it again do that thing i hate this pls it is just me or anyone else discord please make my account come back TvT..->bug report
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+Worst review we cant hear each ither can't share the screen and the skype is not working well and I didn't got ant response from team skype how you are all working->bug report
+How do you not have the option to delete chats, or even check who has seen your message? Garbage. Do yourself a favor and get WhatsApp. The functionality of this app is atrocious.->feature request
+"Not a fan of this new phone app layout. Why is my friends list under "" you "" tab"->feature request
+Inconvenient interface. Can't delete history->feature request
+It's a great way to communicate coworkers. And very easy to use->irrelevant information
+Easiest way to talk with people online atm.->irrelevant information

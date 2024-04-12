@@ -1,0 +1,11 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Easiest way to talk with people online atm.->irrelevant information
+everything is nice and all for me but uhhhhhhhh I have my auto rotate off and yet somehow discord can rotate on itself->bug report
+Change of review, Discord did managed to respond. So I make a update to my negative review. Hopefully in the future there's improvement for others using Discord ticket service and maybe something better for customer review. Discord is heavy in its system than what it used to be. The Discord call still lags compare to its competitors.->feature request
+Love the new official AMOLED dark theme!->irrelevant information
+I've used Discord for 7 years and I've gotten so used to this mobile layout. My app finally automatically updated today, against my own wishes due to what I've heard about the new UI, and I've gotta say I'm confused and disappointed. What happened to swiping left to check the member list? I've gotta tap on the channel name now to check that? Never mind the fact that I can't find any semblance of a friends list anymore, and all of my direct messages are in that new bottom toolbar, unlike on PC.->feature request
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report

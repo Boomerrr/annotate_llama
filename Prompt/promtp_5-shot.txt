@@ -1,0 +1,20 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+"new ui sucks, cant revert to old one ""we changed it for mobile instead of a scaled down desktop version"" thats literally why we liked the mobile app because it didnt try to feel like a f**ckin mobile app. you cant see full pinned messages or their attachments and the new server menu requires endless scrolling for what used to be a seamless experience with desktop. discord recently has been fixing things that werent broken in the first place and completely ignoring community feedback. why."->feature request
+Galaxy s5. ...not all messages coming though...pictures aswell...please fix bugs->bug report
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+It has been good.->irrelevant information
+New UI isn't great. Less intuitive and clunky than the old layout->feature request
+Worst review we cant hear each ither can't share the screen and the skype is not working well and I didn't got ant response from team skype how you are all working->bug report
+After update it has become very glitchy fix that first->bug report
+I've used Discord for 7 years and I've gotten so used to this mobile layout. My app finally automatically updated today, against my own wishes due to what I've heard about the new UI, and I've gotta say I'm confused and disappointed. What happened to swiping left to check the member list? I've gotta tap on the channel name now to check that? Never mind the fact that I can't find any semblance of a friends list anymore, and all of my direct messages are in that new bottom toolbar, unlike on PC.->feature request
+It's really helpful->irrelevant information
+This is a great way to communicate with others. I would recommend this to anyone.->irrelevant information
+There is no way to jump to first post. Newest release break my zoom settings/font size->feature request
+Audio /vedio  cut off  very often->bug report
+sometimes it works and other times it doesn't; will drop calls periodically->bug report
+This a good app but there needs to be an edit button option.->feature request
+"App recently updated and gives Skype a run for its money in the ""worst app overhaul for 0 reason"" category."->irrelevant information

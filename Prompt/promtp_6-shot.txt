@@ -1,0 +1,23 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Easy to use and fun way to communicate with friends!->irrelevant information
+New UI Sucks ALOT i want the old one back this one is too confusing can we have the option back to go to legacy UI? this alone would bring me up to 5->feature request
+Change of review, Discord did managed to respond. So I make a update to my negative review. Hopefully in the future there's improvement for others using Discord ticket service and maybe something better for customer review. Discord is heavy in its system than what it used to be. The Discord call still lags compare to its competitors.->feature request
+sometimes it works and other times it doesn't; will drop calls periodically->bug report
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+It's good but please upgrade it so that it can be used without network->feature request
+Discord: let's change UI every few months to annoy users for no reason->feature request
+So far, all is good. We use this handy app with our church community.->irrelevant information
+New UI isn't great. Less intuitive and clunky than the old layout->feature request
+Not that good as expectation->irrelevant information
+I enjoy the chats..->irrelevant information
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+Wont even make video/voice calls, it just stops ringing. Works 50% of the time.->bug report
+Audio /vedio  cut off  very often->bug report
+Good to keep in contact->irrelevant information
+Horrible connection, unclear calls, dropped calls. No matter if I'm using wifi or even my mobile data.->bug report
+Discord is already part of my day-to-day routine. But when it was updated, and I'm on call and trying to open other apps to play while on a VC, I'm automatically disconnected from the call and can't join the VCs unless I'm on the app itself. That's why I can't join calls when trying to play with my friends or I can play but can't join the VC.->bug report
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report

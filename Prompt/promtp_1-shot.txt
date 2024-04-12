@@ -1,0 +1,8 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+This a good app but there needs to be an edit button option.->feature request
+Galaxy s5. ...not all messages coming though...pictures aswell...please fix bugs->bug report

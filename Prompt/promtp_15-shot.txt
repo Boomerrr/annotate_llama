@@ -1,0 +1,50 @@
+Assuming you are a software requirements analyst 
+you are categorizing user comments into three categories (bug report, feature request, and irrelevant information).
+bug report refers to the failure of the original software functionality;
+feature request is a structured request applied to software maintenance that implements a new function or enhance existing features;
+irrelevant information refers to information that does not contain information that can be applied to software updates.
+Audio /vedio  cut off  very often->bug report
+bring the old UI back I'm in shambles rn->feature request
+Discord: let's change UI every few months to annoy users for no reason->feature request
+It's really helpful->irrelevant information
+everything is nice and all for me but uhhhhhhhh I have my auto rotate off and yet somehow discord can rotate on itself->bug report
+App is extremely buggy. Sometimes it won't load a group, and notifications don't come half the time->bug report
+Cool app but if i log out once and i know the password and try to login many times it always say pass incorrect or some other issues so i make other account and if log out for some personal reasons nd agn try to login it again do that thing i hate this pls it is just me or anyone else discord please make my account come back TvT..->bug report
+Change of review, Discord did managed to respond. So I make a update to my negative review. Hopefully in the future there's improvement for others using Discord ticket service and maybe something better for customer review. Discord is heavy in its system than what it used to be. The Discord call still lags compare to its competitors.->feature request
+This is a great app! However, I wish the notifications I received from direct messages were like the ones I get from large groups. I never get any notifications for direct messages and the message isn't in bold either, so it often goes unnoticed by me and I don't realize I received a message until weeks later.->feature request
+It's a great way to communicate coworkers. And very easy to use->irrelevant information
+I'm loving it->irrelevant information
+2 days ago this would have been a 4 star review but the new update is such a downgrade that I had to say something. Why they always insist on making every feature worse is beyond me->irrelevant information
+This is a great way to communicate with others. I would recommend this to anyone.->irrelevant information
+The call history only show the name of contact, without the actual number which is very important. Contact can not edit multiple number with one person. Software poorly designed.->feature request
+I enjoy the chats..->irrelevant information
+Inconvenient interface. Can't delete history->feature request
+The website is great, I got the app on my chromebook so I could send voice messages, but it doesn't let me record anything.->feature request
+How do you not have the option to delete chats, or even check who has seen your message? Garbage. Do yourself a favor and get WhatsApp. The functionality of this app is atrocious.->feature request
+Does what it's supposed to do->irrelevant information
+Allows me to stay in touch easily and get information to my teams and activity groups.->irrelevant information
+Incredibly broken. Can not have a conversation that lasts more than 30 minutes if typing as Skype starts to lock up. Never used to and no other app does this. It gets incredibly close to phone breaking as it makes my phone's keyboard unusable.->bug report
+Easiest way to talk with people online atm.->irrelevant information
+"Not a fan of this new phone app layout. Why is my friends list under "" you "" tab"->feature request
+As a large family...we love it helps keep us informed and in touch!->irrelevant information
+Horrible connection, unclear calls, dropped calls. No matter if I'm using wifi or even my mobile data.->bug report
+After update it has become very glitchy fix that first->bug report
+Good to keep in contact->irrelevant information
+So far, all is good. We use this handy app with our church community.->irrelevant information
+This a good app but there needs to be an edit button option.->feature request
+"App recently updated and gives Skype a run for its money in the ""worst app overhaul for 0 reason"" category."->irrelevant information
+Delays messages for days!!! I don't get to read or send messages sometimes->bug report
+Discord is already part of my day-to-day routine. But when it was updated, and I'm on call and trying to open other apps to play while on a VC, I'm automatically disconnected from the call and can't join the VCs unless I'm on the app itself. That's why I can't join calls when trying to play with my friends or I can play but can't join the VC.->bug report
+It's good but please upgrade it so that it can be used without network->feature request
+Love the app. It helps me keep up with all of my boys football schedules while getting a shingle full time working mom who is always busy. Makes life easier->irrelevant information
+Constant updates forcibly adding features i dont want, i dont like, use, amd will never use Bing.->feature request
+show any error message but ask each time for password->bug report
+slow loading of conversations and emoticons->bug report
+New UI Sucks ALOT i want the old one back this one is too confusing can we have the option back to go to legacy UI? this alone would bring me up to 5->feature request
+I wish there was a way to send a reminder directly from a calendar event to anyone who hasn't responded. Otherwise, it's great!->feature request
+"great communication ap for our basketball team. i wish the calendar was more of a ""monthly view"" versus just the event day...great ap though!"->feature request
+perpetually not great. aggresively adequate, borderline broken and constantly under-construction.->irrelevant information
+Galaxy s5. ...not all messages coming though...pictures aswell...please fix bugs->bug report
+It's slow to load->bug report
+Latest update is a bit annoying. Have to scroll down to get things to mark as read, even if you're already scrolled all the way down. Keyboard keeps popping up for seemingly no reason. It otherwise works fine but it is a bit annoying. To add to this, now on the latest version it additionally doesn't show people's picture if they have the default Discord profile picture. Clearing cache and storage for the app restores functionality for a brief period of time. App has gone downhill.->bug report
+My screen keeps turning black->bug report
