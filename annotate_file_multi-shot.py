@@ -8,6 +8,7 @@ import fire
 from llama import Llama, Dialog
 import os
 
+# 配置可用显卡
 os.environ["CUDA_VISIBLE_DEVICES"]="1"
 
 def main(
